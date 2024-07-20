@@ -1,0 +1,16 @@
+{
+    "name": "splix/camagru",
+    "description": "A 42 Project",
+    "autoload": {
+        "psr-4": {
+            "Splix\\Camagru\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "splix",
+            "email": "federicosalalois@gmail.com"
+        }
+    ],
+    "require": {}
+}
